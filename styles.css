@@ -1,0 +1,15 @@
+header {
+    background: lightblue;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+form {
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
